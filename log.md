@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
+### Plans:
+I will be using primarily Python
+- The first 30 days I will be doing [Python30](https://python30.readthedocs.io/en/latest/docs/02_range.html#), and will post daily projects.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+  **Things I want to touch on:**
+  - Django
+  - Jupyter
+  - Git
+  - SQL
+  - Hashing
+  - API Development
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Completed:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 0: 23/03/2021
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Forked Repo, wrote down initial plans, gonna begin tomorrow
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** Excited and ready to begin an intensive journey of education
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
