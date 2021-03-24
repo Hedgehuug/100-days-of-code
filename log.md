@@ -19,3 +19,11 @@ I will be using primarily Python
 
 **Thoughts:** Excited and ready to begin an intensive journey of education
 
+### Day 1: 24/03/2021
+
+**Today's Progress**: Did day 1 of Python30, the challenges were about args and kwargs in python, and processing positional and keyword arguments
+
+**Thoughts:** Day 1 was not very hard, it took me an hour to go through the reading material and complete all the questions. I've used args and kwargs before, but I never understood them, even if not overused, it definitely speeds up work in cases.
+
+**Link:** [Day 1](https://github.com/Hedgehuug/python_30/tree/master/day1)
+
