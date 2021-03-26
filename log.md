@@ -37,3 +37,11 @@ I will be using primarily Python
 
 **Link:** [Day 2](https://github.com/Hedgehuug/python_30/tree/master/day2)
 
+### Day 2: 26/03/2021
+
+**Today's Progress**: Today's tutorial and exercises revolved around slices in Python, which I've already worked a lot with before, so I was pretty familiar with their use. I did learn 1-2 cool things while going through the exercises. Also did some reading into Hashing, and did some bug hunting in a private project.
+
+**Thoughts:** Day 3 was fine, I was super tired so I'm very glad it wasn't a hard day, but I still got in my 1 hour, learned some new and practiced some old, it was fine
+
+**Link:** [Day 3](https://github.com/Hedgehuug/python_30/tree/master/day3)
+
