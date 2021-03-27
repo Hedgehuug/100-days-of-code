@@ -45,3 +45,11 @@ I will be using primarily Python
 
 **Link:** [Day 3](https://github.com/Hedgehuug/python_30/tree/master/day3)
 
+
+### Day 4: 27/03/2021
+
+**Today's Progress**: Topic was Python Map function, a beautiful way to shrink 90% of the loops I write. this is gonna allow so much more reusability in my code, not having to define the loop within the function.
+
+**Thoughts:** I feel very enlightened today, the whole thing took me 49 minutes, but I learned something that will forever change the way I code with python, and how I think about recursion.
+**Link:** [Day 4](https://github.com/Hedgehuug/python_30/tree/master/day4)
+
