@@ -53,3 +53,10 @@ I will be using primarily Python
 **Thoughts:** I feel very enlightened today, the whole thing took me 49 minutes, but I learned something that will forever change the way I code with python, and how I think about recursion.
 **Link:** [Day 4](https://github.com/Hedgehuug/python_30/tree/master/day4)
 
+### Day 4: 27/03/2021
+
+**Today's Progress**: Learned about python's Filter function, works almost identical to the Map function, except it cannot take multiple sequence inputs. Filter either returns or doesn't return the passed in value.
+
+**Thoughts:** I was suuuper tired today, the last thing I wanted to do was code, but I picked it up, and thank god it was a semi-easy topic. I still got to learn on a day it was very hard to pick work up.
+**Link:** [Day 5](https://github.com/Hedgehuug/python_30/tree/master/day5)
+
