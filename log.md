@@ -60,3 +60,10 @@ I will be using primarily Python
 **Thoughts:** I was suuuper tired today, the last thing I wanted to do was code, but I picked it up, and thank god it was a semi-easy topic. I still got to learn on a day it was very hard to pick work up.
 **Link:** [Day 5](https://github.com/Hedgehuug/python_30/tree/master/day5)
 
+### Day 6: 30/03/2021
+
+**Today's Progress**: Today I learned about Reduce in Python, a very niche high order function, but with some useful elements. I found the side-effects of learning F-strings and isInstance more useful than Reduce.
+
+**Thoughts:** I'm doing okay, I have learned so much about python through these daily exercises, and pumping out working code greatly increases my confidence.
+**Link:** [Day 6](https://github.com/Hedgehuug/python_30/tree/master/day6)
+
