@@ -74,3 +74,11 @@ I will be using primarily Python
 **Thoughts:** Honestly with this it's been 7 days, and it is incredible how much I've learned in a week, with lambda functions now I feel like I have once again elevated my code, just like map
 **Link:** [Day 7](https://github.com/Hedgehuug/python_30/tree/master/day7)
 
+
+### Day 8: 01/04/2021
+
+**Today's Progress**: today's topic was comprehensions, which are once again a one-line way of creating sequences from sequences, a very useful somewhat alternative to Map
+
+**Thoughts:** I have used comprehension before, so I didn't have to hurt my brain all over again, but the nested comprehension was rough. Overall I have a huge kit now
+**Link:** [Day 8](https://github.com/Hedgehuug/python_30/tree/master/day8)
+
