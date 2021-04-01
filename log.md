@@ -67,3 +67,10 @@ I will be using primarily Python
 **Thoughts:** I'm doing okay, I have learned so much about python through these daily exercises, and pumping out working code greatly increases my confidence.
 **Link:** [Day 6](https://github.com/Hedgehuug/python_30/tree/master/day6)
 
+### Day 7: 31/03/2021
+
+**Today's Progress**: I finally learned about Lambda functions, which are the single-line anonymous functions of python, I also did all of the previous days' exercises with this new function format, which took very long and was pretty difficult. I also used isInstance() to solve one of the problems
+
+**Thoughts:** Honestly with this it's been 7 days, and it is incredible how much I've learned in a week, with lambda functions now I feel like I have once again elevated my code, just like map
+**Link:** [Day 7](https://github.com/Hedgehuug/python_30/tree/master/day7)
+
