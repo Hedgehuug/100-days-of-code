@@ -82,3 +82,17 @@ I will be using primarily Python
 **Thoughts:** I have used comprehension before, so I didn't have to hurt my brain all over again, but the nested comprehension was rough. Overall I have a huge kit now
 **Link:** [Day 8](https://github.com/Hedgehuug/python_30/tree/master/day8)
 
+### Day 9: 02/04/2021
+
+**Today's Progress**: Day 9 was Enumeration, once again a topic I've explored before so it was not new to me, it was pleasent to do some exercises on stuff I just had to practice rather than learn, I enjoyed it
+
+**Thoughts:** I did day 9 throughout 2 days, first just looking through the tutorial to see if there was anything new, then it was really late into the night so I finished exercises 2 days later.
+**Link:** [Day 9](https://github.com/Hedgehuug/python_30/tree/master/day9)
+
+### Day 10: 05/04/2021
+
+**Today's Progress**: Day 10 was Error handling, learned Try/except/else/finally, also finally understood what Raise can be used for, along with isNumerical()/
+
+**Thoughts:** Error handling was definitely not easy, I think it was the hardest so far, wrapping my head around why this was made the way it was was hard. especially the Raise. the questions were also really hard, but error handling can definitely far far elevate an application, and substantially speed up development
+**Link:** [Day 10](https://github.com/Hedgehuug/python_30/tree/master/day10)
+
