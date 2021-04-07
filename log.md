@@ -96,3 +96,17 @@ I will be using primarily Python
 **Thoughts:** Error handling was definitely not easy, I think it was the hardest so far, wrapping my head around why this was made the way it was was hard. especially the Raise. the questions were also really hard, but error handling can definitely far far elevate an application, and substantially speed up development
 **Link:** [Day 10](https://github.com/Hedgehuug/python_30/tree/master/day10)
 
+### Day 11: 06/04/2021
+
+**Today's Progress**: After finishing the basics section of Python30, day 11 moves onto our next batch of lessons on Object-Oriented-Programming(oop). Day 1 of OOP was about first of all, decorators, and second @staticmethod/@classmethods.
+
+**Thoughts:** I did not think OOP was just a big thing in Python, I thought since it was built on the principles of objects, it was made to just fill in data for its objects, but there is a surprising amount of depth to OOP. the use of @classmethods to initiate a type of Object from within a class itself is extremely useful and looks super sexy.
+**Link:** [Day 11](https://github.com/Hedgehuug/python_30/tree/master/day11)
+
+### Day 12: 07/04/2021
+
+**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+
+**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+
