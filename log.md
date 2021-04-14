@@ -119,3 +119,43 @@ I will be using primarily Python
 
 **Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
 
+### Day 13: 08/04/2021
+
+**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+
+**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+
+**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+
+### Day 14: 10/04/2021
+
+**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+
+**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+
+**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+
+### Day 15: 11/04/2021
+
+**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+
+**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+
+**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+
+### Day 16: 12/04/2021
+
+**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+
+**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+
+**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+
+### Day 17: 14/04/2021
+
+**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+
+**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+
+**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+
