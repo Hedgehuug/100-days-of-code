@@ -121,41 +121,41 @@ I will be using primarily Python
 
 ### Day 13: 08/04/2021
 
-**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+**Today's Progress**: Day 13 was about Dunder methods, built-in methods that give the objects more functionality
 
 **Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
 
-**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+**Link:** [Day 13](https://github.com/Hedgehuug/python_30/tree/master/day13)
 
 ### Day 14: 10/04/2021
 
-**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+**Today's Progress**: Day 14 was about Operator Overloading, which are also dunder methods that let us define attributes to compare objects off of
 
-**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+**Thoughts:** honestly can be a useful tool, defining attributes to use when comparing objects can improve readability and decrease the amount of code we need to write
 
-**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+**Link:** [Day 14](https://github.com/Hedgehuug/python_30/tree/master/day14)
 
 ### Day 15: 11/04/2021
 
-**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+**Today's Progress**: Began Django, learned project creation, Applications within Django
 
-**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+**Thoughts:** So far django is way more independent from python than I expected, it seems really powerful, but a lot to learn
 
-**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+**Link:** Not Applicable
 
 ### Day 16: 12/04/2021
 
-**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+**Today's Progress**: Continuted where I left off with Django, learned about models and databases
 
-**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+**Thoughts:** the models section of django feels like classes and objects in json format, I hope I'm just early in so it doesn't make sense yet.
 
-**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+**Link:** Not Applicable
 
 ### Day 17: 14/04/2021
 
-**Today's Progress**: Day 2 of OOP we talked about getters/setters in python, and making it look so so clean with @property
+**Today's Progress**: Else for For/While loops, Else for error handling, when we have for loops with break conditions, Else will trigger if the break doesn't.
 
-**Thoughts:** Property is definitely a useful decorator, if you spend the time to develop something very extensively thought out @property can make development life 10/10 after that, but it is a lot for my brain to wrap around. It's gonna take a while to grasp the really useful things it can do.
+**Thoughts:** Else is great, I have no experience with using the break in loops, but it's just great that you can use something powerful like else for a more variety of methods.
 
-**Link:** [Day 12](https://github.com/Hedgehuug/python_30/tree/master/day12)
+**Link:** [Day 17(Python30 day15)](https://github.com/Hedgehuug/python_30/tree/master/day15)
 
