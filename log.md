@@ -191,3 +191,11 @@ I will be using primarily Python
 
 **Link:** [Day 21(Python30 day16)](https://github.com/Hedgehuug/python_30/tree/master/day16)
 
+### Day 22: 19/04/2021
+
+**Today's Progress**: Python30 Day17, Memoization. This was really hard, sure I understand it, but finding an example where it's actually useful is very difficult, the fibonacci one took a surprising amount of time, I tried finding another one that I could time, but it was really hard.
+
+**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+
+**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+
