@@ -159,3 +159,35 @@ I will be using primarily Python
 
 **Link:** [Day 17(Python30 day15)](https://github.com/Hedgehuug/python_30/tree/master/day15)
 
+### Day 18: 15/04/2021
+
+**Today's Progress**: Got back to a massive project of mine from before I started this coding challenge, it is a triangular arbitrage trading bot. I redesigned the values to reflect what is most important about the software. 
+
+**Thoughts:** I feel delightfully more confident now than I did when I began that project and worked on it. I wrote that code way better than I expected, but going back through a single one of my packages, I am fixing almost every single function. This really made something apparent in me tho, I struggled to get back to the tutorials for python30 because I didn't want to improve so I don't have to improve the code again
+
+**Link:** Not applicable
+
+### Day 19: 16/04/2021
+
+**Today's Progress**: I continuted on previous day's progress, worked more on the arbitrage bot, fixed a bunch of mistakes I made yesterday, really just making the whole thing more digestible 
+
+**Thoughts:** I messed up pretty bad yesterday, I wrote a bunch of code I thought was being tested, but I was running the wrong file all along, so I was just checking my old code if it still worked, and the new one did not. And so I fixed that
+
+**Link:** Not applicable
+
+### Day 20: 17/04/2021
+
+**Today's Progress**: Once again kept going with the trading bot, fixed more mistakes, did some pretty abstraction
+
+**Thoughts:** Feeling good about the project, it will take a long long time to get working again but with my single-focused goal of just getting arbitrage results for bid-ask, and testing consistency
+
+**Link:** Not applicable
+
+### Day 21: 18/04/2021
+
+**Today's Progress**: Python30 day16: Recursive functions. Recursive functions are ones that call themselves while modifying a value to recreate recursion.
+
+**Thoughts:** There are way better forms of looping in my opinion, this one feels a little situational, but maybe there are things you can do with this that are hard otherwise.
+
+**Link:** [Day 21(Python30 day16)](https://github.com/Hedgehuug/python_30/tree/master/day16)
+
