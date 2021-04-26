@@ -199,3 +199,36 @@ I will be using primarily Python
 
 **Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
 
+### Day 23: 21/04/2021
+
+**Today's Progress**: Decorators
+
+**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+
+**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+
+### Day 24: 22/04/2021
+
+**Today's Progress**: Generators
+
+**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+
+**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+
+### Day 25: 23/04/2021
+
+**Today's Progress**: BDO Marketplace API
+
+**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+
+**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+
+### Day 26: 24/04/2021
+
+**Today's Progress**: Context Managers in Python
+
+**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+
+**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+
+
