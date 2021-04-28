@@ -201,34 +201,34 @@ I will be using primarily Python
 
 ### Day 23: 21/04/2021
 
-**Today's Progress**: Decorators
+**Today's Progress**: Python30 Day18 was about Decorators, decorators are, as the word says, decorators for functions. They are used on functions to "decorate" them with more capabilities, for example a function that recurses over-and-over can be decorated with another function that prints the result of each recursion
 
-**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+**Thoughts:** Decorators are I think the start of a very deep hole of python and programming that I find very hard to wrap my head around. This definitely seems to be advanced and is definitely something I need to practice further
 
-**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+**Link:** [Day 23(Python30 day18)](https://github.com/Hedgehuug/python_30/tree/master/day18)
 
 ### Day 24: 22/04/2021
 
-**Today's Progress**: Generators
+**Today's Progress**: Generators, for day 19 of Python30, we're learning about generators, which are basically Iterators but the yield of each iteration does not get saved to memory.
 
-**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+**Thoughts:** I don't really see generators as a fundamentally useful thing, I can imagine if you want to optimise your application to 100%, it is useful, but it seems to me to be a little limited in functionality.
 
-**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+**Link:** [Day 24(Python30 day19)](https://github.com/Hedgehuug/python_30/tree/master/day19)
 
 ### Day 25: 23/04/2021
 
-**Today's Progress**: BDO Marketplace API
+**Today's Progress**: BDO Marketplace API, I started a fun little side-project, as I kinda got bored of just learning. So I picked up the Requests library of python and decided to try web-scrape data to analyse and maybe create a bot around it. This is what I am good at afterall
 
-**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+**Thoughts:** I am an avid played of Black Desert Online, and I have a particular intrigue toward the possibilities of its central marketplace. So here we are, obviously going the long-way around, I'm gonna start streaming data from the CM(central marketplace) to get stock/volume/pricechange and maybe further it with indicators later on
 
-**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+**Link:** [Marketplace-API](https://github.com/Hedgehuug/bdo-marketplace-data)
 
 ### Day 26: 24/04/2021
 
-**Today's Progress**: Context Managers in Python
+**Today's Progress**: Context Managers, as day20 of python30, context managers allow us to open, use, and then close dependencies we use in our code, as we use them, so they don't linger around and take space in memory
 
-**Thoughts:** Memoization is definitely useful, I wish I could try it out myself, couldn't. I feel like if we go any more complex than currently and it would be really hard to find repeating patterns. 
+**Thoughts:** I thought the practices around context managers were a very interesting addition to my knowledge. using With, and kind-of accessing then closing the data is something that appealed to my way-of-thinking
 
-**Link:** [Day 22(Python30 day17)](https://github.com/Hedgehuug/python_30/tree/master/day17)
+**Link:** [Day 26(Python30 day20)](https://github.com/Hedgehuug/python_30/tree/master/day20)
 
 
