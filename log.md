@@ -231,4 +231,20 @@ I will be using primarily Python
 
 **Link:** [Day 26(Python30 day20)](https://github.com/Hedgehuug/python_30/tree/master/day20)
 
+### Day 27: 27/04/2021
+
+**Today's Progress**: This was currently the last released day for the python30 project I was following. Learned about datetime objects, Data,Time,Datatime,Timedelta.
+
+**Thoughts:** I feel reborn after actually learning about datetime, up until now I guessed and trial and error'd my way through time management, but I feel I better understand it now
+
+**Link:** [Day 26(Python30 day21)](https://github.com/Hedgehuug/python_30/tree/master/day21)
+
+### Day 28: 28/04/2021
+
+**Today's Progress**: Datetime still, I finished some of the harder questions
+
+**Thoughts:** Finished up with datetime, a bit confusing at first, very powerful once learned
+
+**Link:** [Day 28(Python30 day21)](https://github.com/Hedgehuug/python_30/tree/master/day21)
+
 
