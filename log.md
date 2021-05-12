@@ -237,7 +237,7 @@ I will be using primarily Python
 
 **Thoughts:** I feel reborn after actually learning about datetime, up until now I guessed and trial and error'd my way through time management, but I feel I better understand it now
 
-**Link:** [Day 26(Python30 day21)](https://github.com/Hedgehuug/python_30/tree/master/day21)
+**Link:** [Day 27(Python30 day21)](https://github.com/Hedgehuug/python_30/tree/master/day21)
 
 ### Day 28: 28/04/2021
 
@@ -246,5 +246,37 @@ I will be using primarily Python
 **Thoughts:** Finished up with datetime, a bit confusing at first, very powerful once learned
 
 **Link:** [Day 28(Python30 day21)](https://github.com/Hedgehuug/python_30/tree/master/day21)
+
+### Day 29: 01/05/2021
+
+**Today's Progress**: BDO marketplace further development, I can fetch data now, I can split and decypher data, I cannot yet store it tho, so I will have to pick up a database solution, as I will be lots and lots of data
+
+**Thoughts:** I am excited about this project, I have lots of plans and future expansions to it. So far it's been a blast working on it, analyzing price, I've missed it.
+
+**Link:** 
+
+### Day 30: 07/05/2021
+
+**Today's Progress**: PostgreSQL, learned how to use pgAdmin, how SQL databases are set-up, what I can do with tables
+
+**Thoughts:** I am very very excited for databases, I have never really looked into data-storage past .json files or .ini files, and it will be great to look at SQL and to be able to finally say that yes, I can create, normalize and manage a databse
+
+**Link:** 
+
+### Day 31: 08/05/2021
+
+**Today's Progress**: PostgreSQL, I continued the journey with Postgres, I learned some SQL queries, I learned about psycopg2, and how to send SQL queries to the database with that
+
+**Thoughts:** I know I have a long way to go, but I already feel way more confident looking at any piece of code and actually making sense of it.
+
+**Link:** 
+
+### Day 32: 09/05/2021
+
+**Today's Progress**: Still on Postgres, learned about Database Normalization, table relationships, one-to-many, many-to-many, this is currently where I left it off, going to return to it with plans for how to set-up my BDO-MP database
+
+**Thoughts:** I'm loving SQL so far, it makes sense, it feels a little outdated, but it's easy to set-up, it's pretty fast, there's documentation on it, I like it.
+
+**Link:** 
 
 
